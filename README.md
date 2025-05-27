@@ -1,5 +1,5 @@
 # This is my practice project 
-I'll pactice creating github projects here 
+I'll edit this line again to check the merge conflict 
 ## subheading
 * point 1
 * point 2
