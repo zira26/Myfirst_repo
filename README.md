@@ -1,6 +1,6 @@
 # This is my practice project 
 
-I'll edit this line again to check the merge conflict 
+I'll edit this line again to check the merge conflict <br/>
 I'll edit this line
 
 ## subheading
