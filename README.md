@@ -8,5 +8,4 @@ I'll edit this line
 * point 2
 * point 3
 
-Making some changes 
 I'm making some changes to practice push on my local computer
